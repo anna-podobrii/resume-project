@@ -461,3 +461,8 @@ margin-left: 50px;
 .navbar{
   background: var(--primary-color);
 }
+.footer{
+  font-size: 15px;
+  font-weight: 200;
+  color: #b4b4b4;
+}
