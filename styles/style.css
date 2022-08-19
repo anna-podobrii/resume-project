@@ -161,6 +161,11 @@ a {
   filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.2));
 }
 
+.img-phone-info-web {
+  border-radius: 10px;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.2));
+}
+
 @media (max-width: 600px) {
   .homepage-link {
     /* color: var(--primary-color); */
